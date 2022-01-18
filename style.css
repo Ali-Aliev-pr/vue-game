@@ -1,0 +1,21 @@
+.card-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    margin: 20px;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+}
